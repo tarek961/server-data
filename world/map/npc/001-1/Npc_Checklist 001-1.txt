@@ -1,7 +1,7 @@
 //Checklist for D&E Npc's (001-1)
 --//001-1://--
 banker.txt                //*DONE*//
-barber.txt                //*DONE--is#3*//
+barber.txt                //*DONE--is#10*//
 bard.txt                //*---*//
 bernard.txt               //*---*//
 bleacher.txt              //*---*//
@@ -11,10 +11,10 @@ elanore.txt               //*---*//
 entertainer.txt             //*DONE*//
 gossip.txt                //*---*//
 guards.txt                //*---*//
-guide.txt               //*---*//
-luca.txt                //*---*//
-mikhail.txt               //*---*//
-monster_guide.txt           //*---*//
+guide.txt               //*Initalised*//
+luca.txt                //*Initalised*//
+mikhail.txt               //*Initalised*//
+monster_guide.txt           //*Initalised*//
 npcs.txt                //*---*//
 reward_master.txt           //*---*//
 sandra.txt                //*DONE*//
